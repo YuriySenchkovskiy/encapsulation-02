@@ -1,0 +1,6 @@
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/bin/Debug/encapsulation_02.exe
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/bin/Debug/encapsulation_02.pdb
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/obj/Debug/encapsulation-02.csproj.AssemblyReference.cache
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/obj/Debug/encapsulation-02.csproj.CoreCompileInputs.cache
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/obj/Debug/encapsulation_02.exe
+/Users/rozencrants/Desktop/GameDev/Unior/napilnik/encapsulation-02/encapsulation-02/obj/Debug/encapsulation_02.pdb
